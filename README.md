@@ -16,10 +16,10 @@ Skills <br>
 <br>
 ## Portfolio
 
-Moje najnowsze projekty znajdziesz na moim profilu GitHub. Znajdziesz tam różnorodne projekty, od prostych stron internetowych po zaawansowane aplikacje webowe.
+You will find my latest project at GitHub. You'll find various projects there, ranging from simple websites to advanced web applications.
 
 ## Kontakt
 
-Jeśli chcesz się ze mną skontaktować lub dowiedzieć się więcej o mojej pracy, zapraszam do odwiedzenia mojego profilu LinkedIn: [Adrianna Lenczewska](https://www.linkedin.com/in/adrianna-lenczewska-276185287/).
+If you wish to contact me, please use LinkedIn: [Adrianna Lenczewska](https://www.linkedin.com/in/adrianna-lenczewska-276185287/).
 
-Dziękuję za odwiedzenie mojego profilu!
+Happy watching !
