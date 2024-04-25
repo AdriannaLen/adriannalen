@@ -3,7 +3,8 @@
 
 I am a passionate Front End Developer with expertise in HTML, CSS (including Sass/SCSS), JavaScript (ES6+), React.js, and Node.js. I thrive on creating engaging and interactive web experiences that delight users. My journey in web development has equipped me with the skills to build responsive and visually appealing interfaces.
 
-Skills <br>
+## Expertise
+
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
