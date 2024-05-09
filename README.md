@@ -19,6 +19,8 @@ I am a passionate Front End Developer with expertise in HTML, CSS (including Sas
 
 You will find my latest project at GitHub. You'll find various projects there, ranging from simple websites to advanced web applications.
 
+## Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriannaLen)
 
 ## Kontakt
