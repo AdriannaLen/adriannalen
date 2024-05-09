@@ -9,6 +9,7 @@ I am a passionate Front End Developer with expertise in HTML, CSS (including Sas
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
+![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
