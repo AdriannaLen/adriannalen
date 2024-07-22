@@ -1,7 +1,7 @@
 
 # Hi There!
 
-I am a passionate Front End Developer with expertise in HTML, CSS (including Sass/SCSS), JavaScript (ES6+), React.js, and Node.js. I thrive on creating engaging and interactive web experiences that delight users. My journey in web development has equipped me with the skills to build responsive and visually appealing interfaces.
+I am a passionate Front End Developer with expertise in HTML, CSS (including Sass/SCSS), JavaScript (ES6+), React.js, and Node.js. I thrive on creating engaging and interactive web experiences that delight users. My journey in web development has equipped me with the skills to build responsive and visually appealing interfaces. Happy to join a team project where a passionate web developer is needed 
 
 ## Expertise
 
